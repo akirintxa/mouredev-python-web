@@ -10,15 +10,22 @@
 ### Proyecto realizado durante emisiones en directo desde [Twitch](https://twitch.tv/mouredev)
 > ##### Si consideras útil el curso, apóyalo haciendo "★ Star" en el repositorio. ¡Gracias!
 
-## Próxima Clase: Miércoles 18/10/2023
-### ⏰ 20:00 (hora España) en directo desde [Twitch](https://twitch.tv/mouredev)
-### 🌐 Consulta el horario por país y crea un recordatorio desde [Discord](https://discord.gg/mouredev?event=1161934670380933151)
+## Próxima Clase: Muy pronto
+### Avisaré en redes sociales y actualizaré este repositorio con la siguiente fecha.
 
 ## Clases anteriores
 
-### Clase 1 (04/10/2023): Introducción, instalación y configuración ▶️ [Ver clase en vídeo](https://www.twitch.tv/videos/1942562640?t=00h18m05s)
+### Clase 1 (04/10/2023): Introducción, instalación y configuración 
+#### ▶️ [Ver clase en vídeo](https://www.twitch.tv/videos/1942562640?t=00h18m05s)
 
-### Clase 2 (11/10/2023): Componentes visuales ▶️ [Ver clase en vídeo](https://www.twitch.tv/videos/1948407270?t=00h20m02s)
+### Clase 2 (11/10/2023): Componentes visuales 
+#### ▶️ [Ver clase en vídeo](https://www.twitch.tv/videos/1948407270?t=00h20m02s)
+
+### Clase 3 (18/10/2023): Estilos
+#### ▶️ [Ver clase en vídeo](https://www.twitch.tv/videos/1954230750?t=00h18m23s)
+
+### Clase 4 (25/10/2023): Colores, fuentes e imágenes
+#### ▶️ [Ver clase en vídeo](https://www.twitch.tv/videos/1960113237?t=00h24m03s)
 
 ## Proyecto
 
@@ -46,6 +53,8 @@ Una vez se finalice, se creará un vídeo que agrupe todas las clases y se publi
 * [Documentación CSS](https://www.w3schools.com/css/)
 * [Curso de CSS](https://web.dev/learn/css/)
 * [Chakra UI](https://chakra-ui.com/)
+* [Google Fonts](https://fonts.google.com/)
+* [Font Awesome](https://fontawesome.com/)
 
 ## Curso de Python desde cero
 ### Aprende Python desde sus fundamentos
